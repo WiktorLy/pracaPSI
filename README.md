@@ -1,14 +1,14 @@
-#to jest mój plik README.md
+# to jest mój plik README.md
 
-##pierwszy sukces
+## pierwszy sukces
 
 mam swoje repozytorium
 
-##drugi sukces
+## drugi sukces
 
 umiem wysłać repozytorium do GitHuba
 
-##trzeci sukces
+## trzeci sukces
 
 będę mieć piątkę z PSI :)
 
